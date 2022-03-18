@@ -78,7 +78,7 @@ function Landing() {
           <div className="lcl--content">
             {socialsData.linkedIn && (
               <a
-                href="www.linkedin.com/in/ervijendrasaini"
+                href="https://www.linkedin.com/in/ervijendrasaini/"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -183,7 +183,7 @@ function Landing() {
                 </NavLink>
               </div>
             </div>
-            <p className="aobutDis" style={{textAlign: "justify"}}>A passionate, focused, and enthusiastic Full-stack web developer.
+            <p id="aboutD" className="aobutDis" style={{textAlign: "justify"}}>A passionate, focused, and enthusiastic Full-stack web developer.
               A self-starter and an effective team player implementing his skills
               to build meaningful products. Looking forward to boosting skills
               and gaining experience in a growth-oriented organization.</p>

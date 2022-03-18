@@ -27,12 +27,12 @@
     justify-content: center; 
     width: 100%;
     margin-top: 3.5rem;
-    padding: 0 2rem;
+    /* padding: 0 2rem; */
 }
 
 .skill--scroll {
     width: 100%;
-    margin: 0 2rem;
+    /* margin: 0 2rem; */
 }
 
 
@@ -44,13 +44,21 @@
     border-radius: 10px;
     width: 160px;
     height: 160px;
-    margin: 1.5rem;
+    /* margin: 1.5rem; */
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 2rem 1rem;
+    /* padding: 2rem 1rem; */
     transition: 300ms ease-in-out;
+}
+.my-all-skill{ 
+        display : grid;
+        grid-template-rows : 160px 160px;
+        grid-template-columns : 160px 160px 160px 160px;
+        grid-gap : 30px;
+        width : 730px;
+        margin : auto;
 }
 
 .skill--box:hover,
@@ -137,6 +145,13 @@
         width: 100%;
         margin: 0;
     }
+    .my-all-skill{ 
+        display : grid;
+        grid-template-columns : repeat(3,31%);
+        grid-gap : 2%;
+        width : 80%;
+        margin : auto;
+}
 }
 
 @media screen and (max-width: 600px) {
@@ -159,10 +174,23 @@
         font-size: 18px;
         margin-top: 1rem;
     }
+    .my-all-skill{ 
+        display : grid;
+        grid-template-columns : repeat(3,31%);
+        grid-gap : 2%;
+        width : 100%;
+        margin : auto;
+}
 }
 
 @media screen and (max-width: 400px) {
-
+    .my-all-skill{ 
+        display : grid;
+        grid-template-columns : repeat(2,46%);
+        grid-gap : 2%;
+        width : 100%;
+        margin : auto;
+}
 }
   
 @media only screen and (min-device-width: 320px) and (max-device-width: 

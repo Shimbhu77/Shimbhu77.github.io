@@ -145,10 +145,10 @@ function Contacts() {
 
         emailjs
           .sendForm(
-            "service_1iayfr9",
-            "template_ps3kava",
+            "service_qqdxfx1",//"service_1iayfr9",   //service_qqdxfx1
+            "template_0fc0x8p",//"template_ps3kava",  //template_fk2ijrd
             e.target,
-            "CjBwHK5NvNJjd_50P"
+            "r4GpboCObzXHVHL7i"//"CjBwHK5NvNJjd_50P"   //r4GpboCObzXHVHL7i
           )
           .then(
             (response) => {

@@ -28,8 +28,8 @@ function Main() {
       <Navbar />
       <Landing />
       {/* <About /> */}
-      <Skills />
       <Projects />
+      <Skills />
       {/* <Education /> */}
       <Experience />
       <Achievement />
