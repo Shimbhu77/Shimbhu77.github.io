@@ -1,8 +1,8 @@
 # portfolio
 
-Deploy link : https://nitish8800-nitish8800.vercel.app/
+Deploy link : https://our-hotstar-project-vijendrasaini.vercel.app
 
-Landing Page : ![image](https://user-images.githubusercontent.com/81190422/158531702-b7f97859-73af-4475-93c0-6d8bad6f77c6.png)
+<!-- Landing Page : ![image](https://user-images.githubusercontent.com/81190422/158531702-b7f97859-73af-4475-93c0-6d8bad6f77c6.png) -->
 
 Projects : ![image](https://user-images.githubusercontent.com/81190422/158531829-259f422c-69a9-48d1-96d6-eeeb195ee3c2.png)
 
