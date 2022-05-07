@@ -134,102 +134,6 @@ function Navbar() {
         <IoMenuSharp className={classes.navMenu} onClick={handleDrawerOpen} />
       </div>
 
-      {/* ////////////////             Navbar Top                ////////////////////// */}
-
-      {/* <div>
-        <div className="navLink__container2">
-          <Fade left>
-            <NavLink
-              to="/#home"
-              smooth={true}
-              spy="true"
-              duration={500}
-              style={{ textDecoration: "none" }}
-            >
-              <div className={classes.drawerItem}>
-                <IoHomeSharp className={classes.drawerIcon} />
-                <span className={classes.drawerLinks}>Home</span>
-              </div>
-            </NavLink>
-          </Fade>
-          <Fade left>
-            <NavLink
-              to="/#projects"
-              smooth={true}
-              spy="true"
-              duration={500}
-              style={{ textDecoration: "none" }}
-            >
-              <div className={classes.drawerItem}>
-                <FaFolderOpen className={classes.drawerIcon} />
-                <span className={classes.drawerLinks}>Projects</span>
-              </div>
-            </NavLink>
-          </Fade>
-          <Fade left>
-            <NavLink
-              to="/#about"
-              smooth={true}
-              spy="true"
-              duration={500}
-              style={{ textDecoration: "none" }}
-            >
-              <div className={classes.drawerItem}>
-                <FaUser className={classes.drawerIcon} />
-                <span className={classes.drawerLinks}>About</span>
-              </div>
-            </NavLink>
-          </Fade>
-
-          <Fade left>
-            <NavLink
-              to="/#resume"
-              smooth={true}
-              spy="true"
-              duration={500}
-              style={{ textDecoration: "none" }}
-            >
-              <div className={classes.drawerItem}>
-                <HiDocumentText className={classes.drawerIcon} />
-                <span className={classes.drawerLinks}>Education</span>
-              </div>
-            </NavLink>
-          </Fade>
-
-          <Fade left>
-            <NavLink
-              to="/#services"
-              smooth={true}
-              spy="true"
-              duration={500}
-              style={{ textDecoration: "none" }}
-            >
-              <div className={classes.drawerItem}>
-                <BsFillGearFill className={classes.drawerIcon} />
-                <span className={classes.drawerLinks}>Hobbies</span>
-              </div>
-            </NavLink>
-          </Fade>
-
-          <Fade left>
-            <NavLink
-              to="/#blog"
-              smooth={true}
-              spy="true"
-              duration={2000}
-              style={{ textDecoration: "none" }}
-            >
-              <div className={classes.drawerItem}>
-                <FaFolderOpen className={classes.drawerIcon} />
-                <span className={classes.drawerLinks}>Blog</span>
-              </div>
-            </NavLink>
-          </Fade>
-        </div>
-      </div> */}
-
-      {/* ////////////////////////////////////// */}
-
       <Drawer
         variant="temporary"
         onClose={(event, reason) => {
@@ -287,32 +191,6 @@ function Navbar() {
                 </div>
               </NavLink>
             </Fade>
-
-            {/* <Fade left>
-              <NavLink to="/#resume" smooth={true} spy="true" duration={500}>
-                <div className={classes.drawerItem}>
-                  <HiDocumentText className={classes.drawerIcon} />
-                  <span className={classes.drawerLinks}>Education</span>
-                </div>
-              </NavLink>
-            </Fade>
-
-            <Fade left>
-              <NavLink to="/#services" smooth={true} spy="true" duration={500}>
-                <div className={classes.drawerItem}>
-                  <BsFillGearFill className={classes.drawerIcon} />
-                  <span className={classes.drawerLinks}>Hobbies</span>
-                </div>
-              </NavLink>
-            </Fade>
-            <Fade left>
-              <NavLink to="/#blog" smooth={true} spy="true" duration={2000}>
-                <div className={classes.drawerItem}>
-                  <FaFolderOpen className={classes.drawerIcon} />
-                  <span className={classes.drawerLinks}>Blog</span>
-                </div>
-              </NavLink>
-            </Fade> */}
 
             <Fade left>
               <NavLink to="/#contacts" smooth={true} spy="true" duration={500}>

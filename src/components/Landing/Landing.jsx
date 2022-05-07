@@ -27,7 +27,7 @@ function Landing() {
       borderRadius: "30px",
       textTransform: "inherit",
       textDecoration: "none",
-      width: "150px",
+      width: "200px",
       fontSize: "1rem",
       fontWeight: "500",
       height: "50px",
@@ -153,7 +153,7 @@ function Landing() {
               style={{
                 position: "relative",
                 margin: "10% auto",
-                width: "70%",
+                width: "75%",
                 marginBottom: "10%",
               }}
               className="lcr-buttonContainer"
@@ -161,13 +161,13 @@ function Landing() {
               <div style={{ marginBottom: "30px" }}>
                 {headerData.resumePdf && (
                   <a
-                    href="https://drive.google.com/file/d/1xV3g-W1E3tc5_tlkMFCfUsp3LjmURNrJ/view?usp=sharing"
+                    href="https://drive.google.com/drive/folders/10KR6rjnlcW6Fg1rLdWQ2f_5npEACEz5L?usp=sharing"
                     download="resume"
                     target="_blank"
                     rel="noreferrer"
                     style={{ textDecoration: "none" }}
                   >
-                    <Button className={classes.resumeBtn}>Download CV</Button>
+                    <Button className={classes.resumeBtn}>Download Resume</Button>
                   </a>
                 )}
               </div>
