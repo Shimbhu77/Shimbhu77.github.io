@@ -153,7 +153,7 @@ function Landing() {
               style={{
                 position: "relative",
                 margin: "10% auto",
-                width: "75%",
+                width: "80%",
                 marginBottom: "10%",
               }}
               className="lcr-buttonContainer"

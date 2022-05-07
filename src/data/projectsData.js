@@ -7,7 +7,7 @@ export const projectsData = [
     projectDesc:
       "A clone of Hotstar website using React. Hotstar is a OTT platform where you can watch movies, web series, tv series",
     tags: ["React", "Redux", "NodeJs", "Express","MongoDb"],
-    logos: ["fab fa-react", "fab fa-react","fab fa-node","fab fa-node","fab fa-node"],
+    logos: ["fab fa-react", "fab fa-node"],
     code: "https://github.com/abhich21/Hotstar-Clone.git",
     demo: "https://our-hotstar-project-vijendrasaini.vercel.app",
     image: "https://github.com/abhich21/Hotstar-Clone/raw/main/Screenshots/lanhot.png",
@@ -18,7 +18,7 @@ export const projectsData = [
     projectDesc:
     "Twitter is a social media website.This is a solo project and I have built this with my full dedication.",
     tags: ["React", "Redux", "NodeJs", "Express","MongoDb"],
-    logos: ["fab fa-react", "fab fa-react","fab fa-node","fab fa-node","fab fa-node"],
+    logos: ["fab fa-react", "fab fa-node"],
     code: "https://github.com/vijendrasaini/Twitter-A-social-media-website---ClientSide.git",
     demo: "https://twitter-vijendrasaini.vercel.app",
     image: "https://github.com/vijendrasaini/Twitter-A-social-media-website---ClientSide/raw/master/assets/Screenshot%20(2349).png",
