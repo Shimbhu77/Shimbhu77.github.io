@@ -1,10 +1,12 @@
 export const skillsData = [
   "HTML",
-  "Javascript",
   "CSS",
+  "Javascript",
   "MongoDB",
   "ExpressJS",
   "React",
   "Nodejs",
   "Redux",
+  "python",
+  "django"
 ];
