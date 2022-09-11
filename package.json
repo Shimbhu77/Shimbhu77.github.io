@@ -53,5 +53,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Deploy link : https://our-hotstar-project-vijendrasaini.vercel.app",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

@@ -32,7 +32,7 @@ color:rgb(255, 255, 255);
     color: white;
     white-space: nowrap;
     overflow: hidden;
-    animation: typewriter 2s steps(13) infinite alternate,
+    animation: typewriter 3s steps(13) infinite alternate,
       blink 800ms steps(13) infinite normal;
     border-right: 5px solid white;
   }

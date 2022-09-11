@@ -78,7 +78,7 @@ function Landing() {
           <div className="lcl--content">
             {socialsData.linkedIn && (
               <a
-                href="https://www.linkedin.com/in/ervijendrasaini/"
+                href="https://www.linkedin.com/in/shimbhu-kumawat-65856520a/"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -90,7 +90,7 @@ function Landing() {
             )}
             {socialsData.github && (
               <a
-                href="https://github.com/vijendrasaini"
+                href="https://github.com/Shimbhu77"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -129,17 +129,16 @@ function Landing() {
               className="aimee"
               style={{ textAlign: "center", fontSize: "33px" }}
             >
-              VIJENDRA SAINI
+              SHIMBHU KUMAWAT
             </h1>
             <div style={{ textAlign: "center" }}>
               <h3>
-                I am a
+                I'm 
                 <Typewriter
                   options={{
                     strings: [
+                      "Java Backend Developer",
                       "FrontEnd Developer",
-                      "Backend Developer",
-                      "MERN Stack Developer",
                     ],
                     autoStart: true,
                     loop: true,
@@ -161,7 +160,7 @@ function Landing() {
               <div style={{ marginBottom: "30px" }}>
                 {headerData.resumePdf && (
                   <a
-                    href="https://drive.google.com/drive/folders/10KR6rjnlcW6Fg1rLdWQ2f_5npEACEz5L?usp=sharing"
+                    href="https://drive.google.com/file/d/1WW0_hh5_2keh3KPM0r5d4cyGm6zbV4XD/view?usp=sharing"
                     download="resume"
                     target="_blank"
                     rel="noreferrer"
@@ -183,10 +182,7 @@ function Landing() {
                 </NavLink>
               </div>
             </div>
-            <p id="aboutD" className="aobutDis" style={{textAlign: "justify"}}>A passionate, focused, and enthusiastic Full-stack web developer.
-              A self-starter and an effective team player implementing his skills
-              to build meaningful products. Looking forward to boosting skills
-              and gaining experience in a growth-oriented organization.</p>
+            <p id="aboutD" className="aobutDis" style={{textAlign: "justify"}}>A passionate focused, and enthusiastic Java Full-stack web developer. An effective team player and excited to implement his skills with meaningful real-life problem-solving products. Looking forward to boosting skills and gaining experience in a growth-oriented organization.</p>
           </div>
         </div>
       </div>

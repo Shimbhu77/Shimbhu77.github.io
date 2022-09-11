@@ -129,7 +129,7 @@ function Navbar() {
   return (
     <div className="navbar">
       <div className="navbar--container">
-        <h1 style={{ color: "white" }}>Vijendra Saini</h1>
+        <h1 style={{ color: "white" }}>Shimbhu Kumawat</h1>
 
         <IoMenuSharp className={classes.navMenu} onClick={handleDrawerOpen} />
       </div>

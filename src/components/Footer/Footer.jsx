@@ -15,7 +15,7 @@ function Footer() {
         </span>
         by Nitish Kumar
       </p> */}
-      <h3 id="madebynitish">Made By Vijendra Saini</h3>
+      <h3 id="madebynitish">Made By Shimbhu Kumawat</h3>
     </div>
   );
 }
