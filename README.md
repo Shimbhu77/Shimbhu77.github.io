@@ -1,10 +1,10 @@
 # portfolio
-
-Deploy link : https://our-hotstar-project-vijendrasaini.vercel.app
+##Shimbhu Kumawat
+<!-- Deploy link : https://our-hotstar-project-vijendrasaini.vercel.app -->
 
 <!-- Landing Page : ![image](https://user-images.githubusercontent.com/81190422/158531702-b7f97859-73af-4475-93c0-6d8bad6f77c6.png) -->
 
-Projects : ![image](https://user-images.githubusercontent.com/81190422/158531829-259f422c-69a9-48d1-96d6-eeeb195ee3c2.png)
+<!-- Projects : ![image](https://user-images.githubusercontent.com/81190422/158531829-259f422c-69a9-48d1-96d6-eeeb195ee3c2.png)
 
 About : ![image](https://user-images.githubusercontent.com/81190422/158531879-964ffd7e-d545-4a49-8aa6-c88ee45dc6e1.png)
 
@@ -19,4 +19,4 @@ Skills : ![image](https://user-images.githubusercontent.com/81190422/158532208-8
 Testimonials : ![image](https://user-images.githubusercontent.com/81190422/158532444-ffcd7f9e-da09-411f-a5fb-a3886da0e075.png)
 
 Contacts : ![image](https://user-images.githubusercontent.com/81190422/158532303-0e6bb726-595e-4b0a-8202-3e7c31fc4c44.png)
-
+ -->
