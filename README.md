@@ -1,5 +1,5 @@
 # My portfolio page 
-# Features - it contains About me section , Project section , Skills ,Statics , Github calendar and contact details section .
+### Features - it contains About me section , Project section , Skills ,Statics , Github calendar and contact details section .
 # About me Section
 ![](https://github.com/Shimbhu77/ReadmeProjectImages/blob/main/Screenshot%20(379).png)
 # Project Section
