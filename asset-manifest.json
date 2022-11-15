@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.54bb9c06.chunk.css",
-    "main.js": "/static/js/main.892c51ba.chunk.js",
-    "main.js.map": "/static/js/main.892c51ba.chunk.js.map",
+    "main.css": "/static/css/main.947df732.chunk.css",
+    "main.js": "/static/js/main.e838ff83.chunk.js",
+    "main.js.map": "/static/js/main.e838ff83.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9e708b3c.js",
     "runtime-main.js.map": "/static/js/runtime-main.9e708b3c.js.map",
     "static/css/2.0c295163.chunk.css": "/static/css/2.0c295163.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.65298487.chunk.js.map": "/static/js/3.65298487.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.0c295163.chunk.css.map": "/static/css/2.0c295163.chunk.css.map",
-    "static/css/main.54bb9c06.chunk.css.map": "/static/css/main.54bb9c06.chunk.css.map",
+    "static/css/main.947df732.chunk.css.map": "/static/css/main.947df732.chunk.css.map",
     "static/js/2.ad5cd7f9.chunk.js.LICENSE.txt": "/static/js/2.ad5cd7f9.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/adobe-xd.fa7a22d2.svg": "/static/media/adobe-xd.fa7a22d2.svg",
@@ -81,6 +81,7 @@
     "static/media/girl2.30853a9b.svg": "/static/media/girl2.30853a9b.svg",
     "static/media/girl3.fab93fe0.svg": "/static/media/girl3.fab93fe0.svg",
     "static/media/git.2d7df16e.svg": "/static/media/git.2d7df16e.svg",
+    "static/media/github.f06c8aaf.svg": "/static/media/github.f06c8aaf.svg",
     "static/media/go.6608613a.svg": "/static/media/go.6608613a.svg",
     "static/media/graphql.9e11f395.svg": "/static/media/graphql.9e11f395.svg",
     "static/media/greenTheme-boy.7d67734f.svg": "/static/media/greenTheme-boy.7d67734f.svg",
@@ -137,6 +138,7 @@
     "static/media/typescript.f66836b8.svg": "/static/media/typescript.f66836b8.svg",
     "static/media/unity.5103c8d1.svg": "/static/media/unity.5103c8d1.svg",
     "static/media/vitejs.11f3d899.svg": "/static/media/vitejs.11f3d899.svg",
+    "static/media/vscode.4418b9d5.svg": "/static/media/vscode.4418b9d5.svg",
     "static/media/vue.5f5d1689.svg": "/static/media/vue.5f5d1689.svg",
     "static/media/vuetifyjs.3848fcff.svg": "/static/media/vuetifyjs.3848fcff.svg",
     "static/media/webix.dc98a7d7.svg": "/static/media/webix.dc98a7d7.svg",
@@ -149,7 +151,7 @@
     "static/js/runtime-main.9e708b3c.js",
     "static/css/2.0c295163.chunk.css",
     "static/js/2.ad5cd7f9.chunk.js",
-    "static/css/main.54bb9c06.chunk.css",
-    "static/js/main.892c51ba.chunk.js"
+    "static/css/main.947df732.chunk.css",
+    "static/js/main.e838ff83.chunk.js"
   ]
 }
